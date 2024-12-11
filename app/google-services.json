@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782136855046",
+    "project_id": "sistemalogin-33be3",
+    "storage_bucket": "sistemalogin-33be3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782136855046:android:ac4cc738ac1ea9844c1187",
+        "android_client_info": {
+          "package_name": "com.example.aula03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97yLME3hMQsKRYAlw0dR2Ie76Pk7usMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
